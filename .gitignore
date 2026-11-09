@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.env
+*.log
+.DS_Store
+catboost_info/
+data/prediction_history.db
+data/raw/house_prices.csv

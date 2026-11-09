@@ -1,0 +1,16 @@
+location,area_sqft,bedrooms,bathrooms,floors,age,parking,furnishing,price
+Delhi,1200,2,2,1,5,Yes,Semi-Furnished,6500000
+Mumbai,900,2,2,1,3,Yes,Fully Furnished,9500000
+Bangalore,1500,3,2,2,2,Yes,Semi-Furnished,8500000
+Hyderabad,1800,3,3,2,4,Yes,Fully Furnished,7800000
+Lucknow,1100,2,1,1,8,No,Unfurnished,4200000
+Noida,2000,4,3,2,1,Yes,Fully Furnished,11000000
+Pune,1300,3,2,1,6,Yes,Semi-Furnished,7200000
+Delhi,1600,3,2,2,3,Yes,Fully Furnished,9000000
+Mumbai,750,1,1,1,10,No,Unfurnished,5500000
+Bangalore,2200,4,3,2,2,Yes,Fully Furnished,12500000
+Lucknow,1500,3,2,1,5,Yes,Semi-Furnished,6000000
+Noida,1400,3,2,2,4,Yes,Semi-Furnished,7500000
+Pune,1000,2,2,1,7,No,Unfurnished,5000000
+Hyderabad,1250,2,2,1,3,Yes,Semi-Furnished,6200000
+Delhi,2500,4,4,3,1,Yes,Fully Furnished,15000000
