@@ -12,3 +12,4 @@ lightgbm
 shap
 joblib
 openpyxl
+reportlab==5.1.0
